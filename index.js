@@ -37,3 +37,7 @@ require("./gpii/node_modules/xrandr");
 // Device Reporters
 
 require("./gpii/node_modules/packagekit");
+
+// User Listeners
+
+require("./gpii/node_modules/userListeners");
